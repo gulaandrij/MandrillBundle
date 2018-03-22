@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Symfony Mandrill Bundle",
     "keywords": ["Mandrill", "transaction mail", "transactional", "messages", "email", "symfony"],
-    "homepage": "https://github.com/slot/SlotMandrillBundle",
+    "homepage": "https://github.com/gulaandrij/MandrillBundle",
     "license": "MIT",
     "require": {
         "symfony/http-foundation": ">=2.8",
